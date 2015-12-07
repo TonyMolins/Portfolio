@@ -1,0 +1,12 @@
+[submodule "Spice-Girls"]
+	path = Spice-Girls
+	url = https://github.com/TonyMolins/Spice-Girls
+[submodule "War"]
+	path = War
+	url = https://github.com/TonyMolins/War
+[submodule "BowlingKataNew"]
+	path = BowlingKataNew
+	url = https://github.com/TonyMolins/BowlingKataNew
+[submodule "TonyMolins"]
+	path = TonyMolins
+	url = https://github.com/TonyMolins/TonyMolins

@@ -1,0 +1,36 @@
+        * {
+            padding: 0;
+            border: 0;
+            margin: 0;
+        }
+        
+        body {
+            padding: 20px 20px 20px 20px;
+            background-image: url("http://savedelete.com/wp-content/uploads/2015/03/White-wall-white-seamless-pattern-for-website-background.jpg");
+        }
+        
+        h1 {
+            margin: 10px 0 15px 0;
+            text-align: center
+        }
+        
+        h2 {
+            margin: 10px 0 20px 0;
+            text-align: center
+        }
+        
+        p {
+            padding: 10px 10px 10px 10px;
+            text-align: center
+        }
+        
+        footer {
+            padding: 10px 10px 10px 10px;
+            text-align: center
+        }
+        
+        IMG.displayed {
+            display: block;
+            margin-left: auto;
+            margin-right: auto
+        }
